@@ -35,6 +35,7 @@ int main(void) {
 	}
 
 	printf("\n\n 당신은 5개의 비밀번호 중 %d개를 맞혔습니다\n", count);
+	printf("추추가\n");
 	return 0;
 }
 
@@ -56,3 +57,4 @@ void fail() {
 }
 
 //추가
+//추가2
