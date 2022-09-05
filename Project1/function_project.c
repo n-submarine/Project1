@@ -54,3 +54,5 @@ void success() {
 void fail() {
 	printf("\n >> ¶¯! Æ²·È½À´Ï´Ù \n");
 }
+
+//Ãß°¡
